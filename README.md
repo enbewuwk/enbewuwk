@@ -5,8 +5,7 @@
 
 #### 擅長
 
-* **前端**
-  * javascript, typescript, jQuery, vue(2-3 都可), react, nextjs, vite, sass, tailwindcss
+* **前端: ** javascript, typescript, jQuery, vue(2-3 都可), react, nextjs, vite, sass, tailwindcss
 * **行動端**
   * react-native, dart(flutter), kotlin(jetpack, jetpack compose, ...)
 * **後端**
