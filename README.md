@@ -9,7 +9,7 @@
 * **`行動端`** react-native, dart(flutter), kotlin(jetpack, jetpack compose, ...)
 * **`後　端`** nodejs(原生模塊, koa, express, puppeteer, ...)
 
-#### 會用
+#### 能用
 
 * **`前　端`** nuxtjs, styled-components
 * **`行動端`** java
