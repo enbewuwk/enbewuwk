@@ -5,13 +5,13 @@
 
 #### 擅長
 
-* **`前　端`** javascript, typescript, jQuery, vue(2-3), react, nextjs, vite, sass, tailwindcss
+* **`前　端`** javascript, typescript, vue(2-3), react, nextjs, vite, sass, tailwindcss
 * **`行動端`** react-native, dart(flutter), kotlin(jetpack, jetpack compose, ...)
 * **`後　端`** nodejs(原生模塊, koa, express, puppeteer, ...)
 
 #### 能用
 
-* **`前　端`** nuxtjs, styled-components
+* **`前　端`** jQuery, nuxtjs, styled-components
 * **`行動端`** java
 * **`後　端`** golang, python, java(springboot), mysql, mongodb, redis
 * **`維　運`** docker, docker compose, nginx, jenkins
