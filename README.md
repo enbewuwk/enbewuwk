@@ -5,16 +5,20 @@
 
 #### 擅長
 
-* *前端*
-  * javascript, typescript, jQuery, vue2, vue3, react, nextjs, vite
-* *移動端*
-  * react-native, dart, flutter, java, kotlin, jetpack, jetpack compose
-* *後端*
+* **前端**
+  * javascript, typescript, jQuery, vue(vue2, vue3, 全家桶), react(redux, 全家桶), nextjs, vite
+* **移動端**
+  * react-native, dart(flutter), kotlin(jetpack, jetpack compose, ...)
+* **後端**
   * nodejs(koa, express, puppeteer, ...)
 
 #### 會用
 
-* *後端*
-  * golang, python, java(springboot)
-* *維運*
+* **前端**
+  * nuxtjs
+* **移動端**
+  * java
+* **後端**
+  * golang, python, java(springboot), mysql, mongodb, redis
+* **維運**
   * docker, docker compose, nginx, jenkins
