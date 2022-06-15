@@ -7,7 +7,7 @@
 
 * **前端**
   * javascript, typescript, jQuery, vue(2-3 都可), react, nextjs, vite, sass, tailwindcss
-* **移動端**
+* **行動端**
   * react-native, dart(flutter), kotlin(jetpack, jetpack compose, ...)
 * **後端**
   * nodejs(原生模塊, koa, express, puppeteer, ...)
@@ -16,7 +16,7 @@
 
 * **前端**
   * nuxtjs, styled-components
-* **移動端**
+* **行動端**
   * java
 * **後端**
   * golang, python, java(springboot), mysql, mongodb, redis
