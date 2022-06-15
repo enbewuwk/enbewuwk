@@ -6,16 +6,16 @@
 #### 擅長
 
 * **前端**
-  * javascript, typescript, jQuery, vue(vue2, vue3, 全家桶), react(redux, 全家桶), nextjs, vite
+  * javascript, typescript, jQuery, vue(2-3 都可), react, nextjs, vite, sass, tailwindcss
 * **移動端**
   * react-native, dart(flutter), kotlin(jetpack, jetpack compose, ...)
 * **後端**
-  * nodejs(koa, express, puppeteer, ...)
+  * nodejs(原生模塊, koa, express, puppeteer, ...)
 
 #### 會用
 
 * **前端**
-  * nuxtjs
+  * nuxtjs, styled-components
 * **移動端**
   * java
 * **後端**
